@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee_Machine.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee_Machine.iml" group="Coffee_Machine" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine-task.iml" group="Coffee_Machine/Coffee_Machine-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine-task_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine-task_main.iml" group="Coffee_Machine/Coffee_Machine-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine-task_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine-task_test.iml" group="Coffee_Machine/Coffee_Machine-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Constructor property/Problems-Constructor_property.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Constructor property/Problems-Constructor_property.iml" group="Coffee_Machine/Problems-Constructor_property" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Constructor property/Problems-Constructor_property_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Constructor property/Problems-Constructor_property_main.iml" group="Coffee_Machine/Problems-Constructor_property" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Constructor property/Problems-Constructor_property_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Constructor property/Problems-Constructor_property_test.iml" group="Coffee_Machine/Problems-Constructor_property" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Point2D/Problems-Point2D.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Point2D/Problems-Point2D.iml" group="Coffee_Machine/Problems-Point2D" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Point2D/Problems-Point2D_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Point2D/Problems-Point2D_main.iml" group="Coffee_Machine/Problems-Point2D" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Point2D/Problems-Point2D_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Point2D/Problems-Point2D_test.iml" group="Coffee_Machine/Problems-Point2D" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Strings as objects/Problems-Strings_as_objects.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Strings as objects/Problems-Strings_as_objects.iml" group="Coffee_Machine/Problems-Strings_as_objects" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Strings as objects/Problems-Strings_as_objects_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Strings as objects/Problems-Strings_as_objects_main.iml" group="Coffee_Machine/Problems-Strings_as_objects" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Strings as objects/Problems-Strings_as_objects_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Strings as objects/Problems-Strings_as_objects_test.iml" group="Coffee_Machine/Problems-Strings_as_objects" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="Coffee_Machine/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="Coffee_Machine/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="Coffee_Machine/util" />
+    </modules>
+  </component>
+</project>
